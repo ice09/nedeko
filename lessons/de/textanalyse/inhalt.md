@@ -1,15 +1,28 @@
-# Titel des Unterrichtsplans
-*Halte es einfach und ansprechend, mit Hinweisen auf den Inhalt und die beabsichtigten Lernziele der Lektion.*
+# Textanalyse mit Hilfe von schulki.de
+Textanalyse des Textes "Deutschland: Vielfalt im Herzen Europas" hier: https://hackmd.io/@alculexum/deutschland mit Hilfe von schulki.de
 
-## Einführung
-Ein kurzer Absatz, der die Ziele der Lektion umreißt sowie die Schlüsselfähigkeiten oder das Wissen, das die Schüler erwerben werden. Erkläre die Bedeutung der Lektion im weiteren Bildungskontext.
+## Ablauf
+Der Text wird in ausgedruckter Form verteilt, er ist eine DIN A4 Seite lang, ~350 Wörter.
+
+Wie gehen die Schüler an den Text heran?
+* Macht es ihnen Spaß, diesen zu lesen oder ist er zu lang?
+* Können die Schüler die relevanten Teile herauslesen?
+  * Worum geht es in dem Text?
+  * Welche Städte werden erwähnt?
+  * Was wird über die Städte gesagt?
+  * Was wird sonst über Deutschland erwähnt?
+
+Nach einer ersten manuellen Analyse stellen wir die Fragen zum Text vor. Was schätzen die Schüler für einen Aufwand zur Lösung dieser Aufgaben, alleine, in der Gruppe und schließlich mit Hilfe der KI?
+
+Wir nutzen dann schulki.de in einer geteilten Sitzung, um den Text von der KI analysieren zu lassen. Dazu reicht zunächst der Prompt: "Lese folgenden Text, ich werde dann Fragen dazu stellen: https://hackmd.io/@alculexum/deutschland".
+
+Wir stellen danach die Aufgaben, die Schüler sollen die Fragen selber eintippen.
 
 ## Benötigte Materialien
 | Gegenstand          | Beschreibung                        | Bezugsquelle                        |
 |---------------------|-------------------------------------|-------------------------------------|
-| Verbrauchsmaterial  | Beschreibung der physischen Materialien | Vorschläge, wo sie zu beschaffen sind |
-| Technologie         | Spezifische Apps oder Geräte erforderlich | Download- oder Kauf-Links          |
-| Vorbereitungsmaterialien | Arbeitsblätter, Leseunterlagen usw. | Links zum Herunterladen oder Kauforte |
+| Text  | Analysetext "Deutschland: Vielfalt im Herzen Europas" | https://hackmd.io/@alculexum/deutschland |
+| schulki.de | ChatGPT als DSGVO-konforme Variante, Anmeldung ist nur für den Leiter notwendig. Es müssen Tokens erworben werden. | schulki.de |
 
 ## Unterrichtsvorbereitung
 ### Anfangssetup
@@ -31,15 +44,5 @@ Ratschläge zur Vorbereitung von Bildungshilfen oder Technologie.
 ## Interaktive Elemente
 Vorschläge, um die Schüler interaktiv einzubinden (z.B. Gruppenarbeit, praktische Aktivitäten).
 
-## Bewertung und Feedback
-Methoden zur Bewertung des Verständnisses der Schüler und zur Erfassung von Feedback zur Wirksamkeit der Lektion.
-
-## Beispiele
-- **Beispiel 1:** Aktivität - Erstellen eines einfachen Bastelprojekts
-- **Beispiel 2:** Diskussion - Schüler in ein Gespräch über das Thema des Tages einbinden
-
-## Erweiterungen und Variationen
-Ideen zur Anpassung der Lektion an unterschiedliche Fähigkeitsniveaus oder Interessen.
-
-## Zusätzliche Ressourcen
+## Ressourcen
 Links oder Verweise auf zusätzliches Material oder erweiterte Lernmöglichkeiten.
