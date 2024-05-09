@@ -12,11 +12,13 @@ Wie gehen die Schüler an den Text heran?
   * Was wird über die Städte gesagt?
   * Was wird sonst über Deutschland erwähnt?
 
-Nach einer ersten manuellen Analyse stellen wir die Fragen zum Text vor. Was schätzen die Schüler für einen Aufwand zur Lösung dieser Aufgaben, alleine, in der Gruppe und schließlich mit Hilfe der KI?
+Nach einer ersten manuellen Analyse stellen wir die Fragen zum Text (s.u.) vor. Was schätzen die Schüler für einen Aufwand zur Lösung dieser Aufgaben: alleine, in der Gruppe und schließlich mit Hilfe der KI?
 
-Wir nutzen dann schulki.de in einer geteilten Sitzung, um den Text von der KI analysieren zu lassen. Dazu reicht zunächst der Prompt: "Lese folgenden Text, ich werde dann Fragen dazu stellen: https://hackmd.io/@alculexum/deutschland".
+Wir nutzen dann schulki.de in einer geteilten Sitzung, um den Text von der KI analysieren zu lassen. Dazu reicht zunächst der Prompt: 
 
-Wir stellen danach die Aufgaben, die Schüler sollen die Fragen selber eintippen.
+> Lese folgenden Text, ich werde dann Fragen dazu stellen: https://hackmd.io/@alculexum/deutschland
+
+Wir stellen danach die Fragen zum Text, die Schüler sollen die Fragen selber eintippen.
 
 ## Benötigte Materialien
 | Gegenstand          | Beschreibung                        | Bezugsquelle                        |
@@ -30,20 +32,43 @@ Detaillierte Anweisungen zur Organisation des Klassenzimmers und zur Vorbereitun
 - **Schritt 1:** Beschreibung (z.B. Stühle in einem Kreis anordnen)
 - **Schritt 2:** Beschreibung (z.B. Digitale Werkzeuge oder Software testen)
 
-### Konfiguration
-Ratschläge zur Vorbereitung von Bildungshilfen oder Technologie.
-- **Konfiguration 1:** Beschreibung (z.B. Präsentationsfolien einrichten)
-- **Konfiguration 2:** Beschreibung (z.B. Backup-Aktivitäten vorbereiten für den Fall von Technikproblemen)
-
 ## Unterrichtsdurchführung
-### Schritt-für-Schritt-Aktivitätenanleitung
-- **Schritt 1:** Beschreibung der ersten Aktivität.
-- **Schritt 2:** Nachfolgende Aktivitäten.
-- Führe weitere Schritte auf, wie nötig, um die Lektion abzuschließen.
 
-## Interaktive Elemente
-Vorschläge, um die Schüler interaktiv einzubinden (z.B. Gruppenarbeit, praktische Aktivitäten).
+## Fragen zum Text
+
+#### Städte und ihre Eigenschaften
+
+Nenne die Städte, die im Text erwähnt werden, und beschreibe jede in drei Worten. Beispiel: Berlin - dynamisch, historisch, innovativ.
+
+#### Quiz zur deutschen Kultur
+
+* Was wird als das Herz Bayerns bezeichnet?
+* Welche Stadt wird mit maritimem Flair und als bedeutender Hafen beschrieben?
+* Welches Fest zieht jährlich Besucher aus aller Welt nach München?
+* Welche Stadt wird als Symbol für wirtschaftliche Stärke und moderne Architektur genannt?
+* Welche Stadt verbindet man im Text mit einer historischen Universität und einer alten Schlossruine?
+
+#### Gedicht
+Schreibe ein kurzes Gedicht über die Vielfalt und kulturelle Tiefe Deutschlands, wie im Text beschrieben, in Form eines Sonnets / Limericks / Haikus.
+
+#### Zusammenfassung
+Fasse den Inhalt des Textes für Primarstufenschüler in etwa 100 Worten zusammen.
+
+#### Vergleich der Städte
+
+Vergleiche München und Frankfurt in Bezug auf ihre kulturelle und wirtschaftliche Bedeutung, wie sie im Text beschrieben werden.
+
+#### Diskussionsfrage
+
+Wie trägt die Kombination von Tradition und Moderne in Deutschland zum kulturellen Reichtum bei, basierend auf dem Text?
+
+#### Wortschatz
+
+Liste alle deutschen Wörter oder Phrasen, die im Text verwendet werden, und übersetze sie ins Englische.
+
+#### Kulturelle Symbolik
+
+Was sind kulturelle Symbole der Städte oder Deutschlands insgesamt, die im Text erwähnt werden.
 
 ## Ressourcen
-
 * [schulki.de](schulki.de): DSGVO-konforme Variante von GPT-4, ähnlich zu ChatGPT. Anmeldung ist nur für den Leiter notwendig. Es müssen Tokens erworben werden.
