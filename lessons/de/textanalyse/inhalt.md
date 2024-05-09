@@ -21,8 +21,8 @@ Wir stellen danach die Aufgaben, die Schüler sollen die Fragen selber eintippen
 ## Benötigte Materialien
 | Gegenstand          | Beschreibung                        | Bezugsquelle                        |
 |---------------------|-------------------------------------|-------------------------------------|
-| Text  | Analysetext "Deutschland: Vielfalt im Herzen Europas" | https://hackmd.io/@alculexum/deutschland |
-| schulki.de | ChatGPT als DSGVO-konforme Variante, Anmeldung ist nur für den Leiter notwendig. Es müssen Tokens erworben werden. | schulki.de |
+| Analysetext  | Analysetext _Deutschland: Vielfalt im Herzen Europas_ | https://hackmd.io/@alculexum/deutschland |
+| schulki.de | ChatGPT als DSGVO-konforme Variante, siehe Ressourcen. | schulki.de |
 
 ## Unterrichtsvorbereitung
 ### Anfangssetup
@@ -45,4 +45,5 @@ Ratschläge zur Vorbereitung von Bildungshilfen oder Technologie.
 Vorschläge, um die Schüler interaktiv einzubinden (z.B. Gruppenarbeit, praktische Aktivitäten).
 
 ## Ressourcen
-Links oder Verweise auf zusätzliches Material oder erweiterte Lernmöglichkeiten.
+
+* [schulki.de](schulki.de): DSGVO-konforme Variante von GPT-4, ähnlich zu ChatGPT. Anmeldung ist nur für den Leiter notwendig. Es müssen Tokens erworben werden.
