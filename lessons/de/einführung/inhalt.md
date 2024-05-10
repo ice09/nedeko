@@ -38,6 +38,12 @@ Anhand dieser werden die Unterschiede zwischen starker und schwacher Intelligenz
 
 ## Wiederholungseinheit
 
+* Was sind die unterschiedlichen Formen der Intelligenz?
+* Wie waren die unterschiedlichen Formen ausgeprägt?
+* Was ist der Unterschied zwischen starker und schwacher KI?
+
+![](../res/bilder/intelligenz.png)
 
 ## Ressourcen
-* [schulki.de](schulki.de): DSGVO-konforme Variante von GPT-4, ähnlich zu ChatGPT. Anmeldung ist nur für den Leiter notwendig. Es müssen Tokens erworben werden.
+* [enaris]
+
