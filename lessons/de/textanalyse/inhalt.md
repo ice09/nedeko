@@ -23,16 +23,26 @@ Wir stellen danach die Fragen zum Text, die Schüler sollen die Fragen selber ei
 ## Benötigte Materialien
 | Gegenstand          | Beschreibung                        | Bezugsquelle                        |
 |---------------------|-------------------------------------|-------------------------------------|
+| Digitales Whiteboard | Wird benutzt zur schnellen Darstellung | --- |
 | Analysetext  | Analysetext _Deutschland: Vielfalt im Herzen Europas_ | https://hackmd.io/@alculexum/deutschland |
 | schulki.de | ChatGPT als DSGVO-konforme Variante, siehe Ressourcen. | schulki.de |
 
 ## Unterrichtsvorbereitung
+
 ### Anfangssetup
-Detaillierte Anweisungen zur Organisation des Klassenzimmers und zur Vorbereitung der Materialien.
-- **Schritt 1:** Beschreibung (z.B. Stühle in einem Kreis anordnen)
-- **Schritt 2:** Beschreibung (z.B. Digitale Werkzeuge oder Software testen)
+* Anmelden bei schulki.de
+* Erstellen eines neuen Chats mit dem "hilfreichen Assistent"
+* _Erst nachdem der Chat vorbereitet wurde, sollte er geteilt werden, danach ist der jeweilige Chat autonom._
+* Teilen des Chats
+
+![](../res/bilder/chat_teilen_kurzlink.png)
 
 ## Unterrichtsdurchführung
+Die Schüler können den vorbereiteten Chat übernehmen und selber fortsetzen.
+
+Die Fragen zum Text können über den Beamer präsentiert werden, die Schüler sollen die Fragen selbstständig eingeben. Die Ergebnisse werden verglichen.
+
+Der Leiter kann ebenfalls die Fragen entsprechend eingeben. _Hierbei können unterschiedliche Resultate vorkommen._
 
 ## Fragen zum Text
 
