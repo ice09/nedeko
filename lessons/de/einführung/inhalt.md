@@ -7,6 +7,8 @@ Es gibt zwei Bestandteile der Lerneinheit:
 1. Gegenseitiges Kennenlernen und Gründe für den Besuch der AG
 2. Versuch einer Definition: was ist künstliche Intelligenz?
 
+
+
 ## Benötigte Materialien
 | Gegenstand          | Beschreibung                        | Bezugsquelle                        |
 |---------------------|-------------------------------------|-------------------------------------|
