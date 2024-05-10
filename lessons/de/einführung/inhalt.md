@@ -1,5 +1,5 @@
 # Was ist eigentlich (Künstliche) Intelligenz?
-Wir versuchen gemeinsam, künstliche Intelligenz zu definieren.
+Wir lernen uns kennen und versuchen gemeinsam, künstliche Intelligenz zu definieren.
 
 ## Ablauf
 Es gibt zwei Bestandteile der Lerneinheit:
@@ -7,56 +7,37 @@ Es gibt zwei Bestandteile der Lerneinheit:
 1. Gegenseitiges Kennenlernen und Gründe für den Besuch der AG
 2. Versuch einer Definition: was ist künstliche Intelligenz?
 
-
-
 ## Benötigte Materialien
 | Gegenstand          | Beschreibung                        | Bezugsquelle                        |
 |---------------------|-------------------------------------|-------------------------------------|
 | Folien Enaris: AI Basics  | Einführungsfolien des Enaris-Projekts | enaris.org |
 
 ## Unterrichtsvorbereitung
+
 ### Anfangssetup
-Detaillierte Anweisungen zur Organisation des Klassenzimmers und zur Vorbereitung der Materialien.
-- **Schritt 1:** Beschreibung (z.B. Stühle in einem Kreis anordnen)
-- **Schritt 2:** Beschreibung (z.B. Digitale Werkzeuge oder Software testen)
+* Per Beamer oder Whiteboard die beiden Fragen groß darstellen:
+  1. Warum bin ich hier? Interessiere ich mich für das Thema (warum?) oder haben meine Eltern mich angemeldet?
+  2. Was glaube ich hier zu lernen?
+* Jeder Schüler soll diese Fragen kurz beantworten.
+
+Der Leiter sollte versuchen, auf jede der Antworten einzugehen und als Input für die weitere Gestaltung der Stunde und der gesamten Lerneinheit zu nehmen.
+
+Danach geht der Leiter auf die Folien von enaris über. 
 
 ## Unterrichtsdurchführung
 
-## Fragen zum Text
+Unterschiedliche Formen der Intelligenz werden anhand der Folien erläutert. 
 
-#### Städte und ihre Eigenschaften
+Die Kinder sollen jede Form einschätzen, es wird im Verlauf sehr schwierig werden, die "Stärke" der jeweiligen künstlichen Intelligenz einzuschätzen.
 
-Nenne die Städte, die im Text erwähnt werden, und beschreibe jede in drei Worten. Beispiel: Berlin - dynamisch, historisch, innovativ.
+Zur Auflösung des Problems wird die Landschaft der KI vorgestellt.
 
-#### Quiz zur deutschen Kultur
+Schließlich wird auf Walle eingegangen, die einzig (nicht) existierende starke Intelligenz.
 
-* Was wird als das Herz Bayerns bezeichnet?
-* Welche Stadt wird mit maritimem Flair und als bedeutender Hafen beschrieben?
-* Welches Fest zieht jährlich Besucher aus aller Welt nach München?
-* Welche Stadt wird als Symbol für wirtschaftliche Stärke und moderne Architektur genannt?
-* Welche Stadt verbindet man im Text mit einer historischen Universität und einer alten Schlossruine?
+Anhand dieser werden die Unterschiede zwischen starker und schwacher Intelligenz erläutert.
 
-#### Gedicht
-Schreibe ein kurzes Gedicht über die Vielfalt und kulturelle Tiefe Deutschlands, wie im Text beschrieben, in Form eines Sonnets / Limericks / Haikus.
+## Wiederholungseinheit
 
-#### Zusammenfassung
-Fasse den Inhalt des Textes für Primarstufenschüler in etwa 100 Worten zusammen.
-
-#### Vergleich der Städte
-
-Vergleiche München und Frankfurt in Bezug auf ihre kulturelle und wirtschaftliche Bedeutung, wie sie im Text beschrieben werden.
-
-#### Diskussionsfrage
-
-Wie trägt die Kombination von Tradition und Moderne in Deutschland zum kulturellen Reichtum bei, basierend auf dem Text?
-
-#### Wortschatz
-
-Liste alle deutschen Wörter oder Phrasen, die im Text verwendet werden, und übersetze sie ins Englische.
-
-#### Kulturelle Symbolik
-
-Was sind kulturelle Symbole der Städte oder Deutschlands insgesamt, die im Text erwähnt werden.
 
 ## Ressourcen
 * [schulki.de](schulki.de): DSGVO-konforme Variante von GPT-4, ähnlich zu ChatGPT. Anmeldung ist nur für den Leiter notwendig. Es müssen Tokens erworben werden.
