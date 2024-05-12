@@ -1,13 +1,19 @@
-# Was ist eigentlich (Künstliche) Intelligenz?
-Wir versuchen gemeinsam, künstliche Intelligenz zu definieren.
+# Deepfakes erstellen und erkennen
+Wie können wir Deepfakes selber erstellen und wie können wir manipulierte Bilder erkennen?
 
 ## Ablauf
-Es gibt zwei Bestandteile der Lerneinheit:
 
-1. Gegenseitiges Kennenlernen und Gründe für den Besuch der AG
-2. Versuch einer Definition: was ist künstliche Intelligenz?
+https://www.umfrageonline.com/c/q3yxdauh
+https://data.wdr.de/ddj/deepfake-quiz-erkennen-sie-alle-ki-bilder/
+https://www.zdf.de/kinder/logo/deep-fakes-erkennen-100.html
+https://deepfact.3duniversum.com/quiz/
 
+* https://app.synthesia.io/#/video/06544ab4-3831-4ada-8179-22698bb824ef?version=1
+* https://app.leonardo.ai/ai-generations/image-guidance
+![](../res/bilder/leonardo_realistic_photo.png)
+* with bing.com / openai.com
 
+> Hyperrealistic photo of a person in a dramatic situation. Should not look like an image, but like a photo taken with a modern iphone.
 
 ## Benötigte Materialien
 | Gegenstand          | Beschreibung                        | Bezugsquelle                        |
