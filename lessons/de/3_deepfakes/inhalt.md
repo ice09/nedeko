@@ -12,7 +12,7 @@ https://deepfact.3duniversum.com/quiz/
 * https://app.leonardo.ai/ai-generations/image-guidance
 ![](../res/bilder/leonardo_realistic_photo.png)
 * https://dreamstudio.ai/generate
-![](../res/bilder/dreamstation_photo.png)
+![](../res/bilder/dreamstudio_photo.png)
 * with bing.com / openai.com
 
 > Hyperrealistic photo of a person in a dramatic situation. Should not look like an image, but like a photo taken with a modern iphone.
