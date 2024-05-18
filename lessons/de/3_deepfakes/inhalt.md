@@ -4,34 +4,18 @@ Wie können wir Deepfakes selber erstellen und wie können wir manipulierte Bild
 
 ## Ablauf
 
-* Aktuelle Umfrage: https://www.umfrageonline.com/c/q3yxdauh
+Es sollen zwei unterschiedliche Aspekte von Deepfakes behandelt werden:
+
+1. Wie können wir Deepfakes und manipulierte Bilder erkennen?
+2. Wie können wir solche Bilder selber erstellen?
 
 ### Erkenne Fälschungen
 
-* https://detectfakes.kellogg.northwestern.edu/
-* https://www.cnet.com/pictures/ai-or-not-ai-can-you-spot-the-real-photos/10/
-* https://data.wdr.de/ddj/deepfake-quiz-erkennen-sie-alle-ki-bilder/
-* https://www.zdf.de/kinder/logo/deep-fakes-erkennen-100.html
-* https://deepfact.3duniversum.com/quiz/
-
-#### Fragestellungen
-
-* Wie können Fakebilder erkannt werden?
-* Wie lange können wir uns darauf verlassen, dass wir solche Bilder erkennen können?
-* Wie kann ich sonst die Echtheit eines Bilder prüfen?
-* Wie kann man selber Fakebilder erstellen?
-
-Wir nutzen nacheinander chatcpt.com, bing.com, dreamstudio und leonardo.ai zur Erstellung von möglichst realistischen Fotos.
-
-#### Videos
-
-* Sora: https://seo.ai/blog/openai-sora-examples
+Wir besuchen unterschiedliche Webseiten mit Deepfakes und versuchen, Eigenschaften von echten und manipulierten bzw. KI-erstellten Bildern zu erkennen.
 
 ### Erstelle Fälschungen
 
-#### Videos 
-
-* _Willkommen bei der KI4Kids AG_: https://app.synthesia.io/#/video/06544ab4-3831-4ada-8179-22698bb824ef?version=1
+Zunächst mit Bildern, dann mit Videos.
 
 ## Benötigte Materialien
 
@@ -41,7 +25,29 @@ Wir nutzen nacheinander chatcpt.com, bing.com, dreamstudio und leonardo.ai zur E
 
 ## Unterrichtsvorbereitung
 
+Wir müssen uns bei allen unter "Benötigte Materialien" erwähnten Seiten anmelden und Accounts erstellen.
+
 ## Unterrichtsdurchführung
+
+### Erkenne Fälschungen bei Bildern
+
+* https://detectfakes.kellogg.northwestern.edu/
+* https://www.cnet.com/pictures/ai-or-not-ai-can-you-spot-the-real-photos/10/
+* https://data.wdr.de/ddj/deepfake-quiz-erkennen-sie-alle-ki-bilder/
+* https://www.zdf.de/kinder/logo/deep-fakes-erkennen-100.html
+* https://deepfact.3duniversum.com/quiz/
+
+Wir nutzen nacheinander chatcpt.com, bing.com, dreamstudio und leonardo.ai zur Erstellung von möglichst realistischen Fotos.
+
+### Erkenne Fälschungen bei Videos
+
+#### Videos
+
+* Sora: https://seo.ai/blog/openai-sora-examples
+
+#### Videos 
+
+* _Willkommen bei der KI4Kids AG_: https://app.synthesia.io/#/video/06544ab4-3831-4ada-8179-22698bb824ef?version=1
 
 ### Erstelle ein Katastrophenbild
 
