@@ -1,64 +1,49 @@
-# Deepfakes erstellen und erkennen
+# Wie recherchieren wir?
 
-Wie können wir Deepfakes selber erstellen und wie können wir manipulierte Bilder erkennen?
+Welche digitalen Werkzeuge können wir nutzen, um zu einem Thema zu recherchieren?
+
+Wie unterscheiden sich die Werkzeuge, wann nutze ich welches Werkzeug?
+
+![](../res/bilder/was-macht-ki.png)
 
 ## Ablauf
 
-* Aktuelle Umfrage: https://www.umfrageonline.com/c/q3yxdauh
+Wir nutzen die Präsentation, um die drei Werkzeuge zur Recherche einzuführen:
 
-### Erkenne Fälschungen
+1. Suchmaschinen
+2. Wikipedia
+3. Generative KI
 
-* https://detectfakes.kellogg.northwestern.edu/
-* https://www.cnet.com/pictures/ai-or-not-ai-can-you-spot-the-real-photos/10/
-* https://data.wdr.de/ddj/deepfake-quiz-erkennen-sie-alle-ki-bilder/
-* https://www.zdf.de/kinder/logo/deep-fakes-erkennen-100.html
-* https://deepfact.3duniversum.com/quiz/
-
-#### Fragestellungen
-
-* Wie können Fakebilder erkannt werden?
-* Wie lange können wir uns darauf verlassen, dass wir solche Bilder erkennen können?
-* Wie kann ich sonst die Echtheit eines Bilder prüfen?
-* Wie kann man selber Fakebilder erstellen?
-
-Wir nutzen nacheinander chatcpt.com, bing.com, dreamstudio und leonardo.ai zur Erstellung von möglichst realistischen Fotos.
-
-#### Videos
-
-* Sora: https://seo.ai/blog/openai-sora-examples
-
-### Erstelle Fälschungen
-
-#### Videos 
-
-* _Willkommen bei der KI4Kids AG_: https://app.synthesia.io/#/video/06544ab4-3831-4ada-8179-22698bb824ef?version=1
+Anhand der in der Präsentation erwähnten Beispiele erarbeiten wir die Unterschiede der Werkzeuge und die unterschiedlichen Anwendungsbereiche.
 
 ## Benötigte Materialien
 
 | Gegenstand | Beschreibung | Bezugsquelle |
 |---------------------|-------------------------------------|-------------------------------------|
-| chat.openai.com | Dallee3 by ChatGPT | |
+| Präsentation: _Was ist KI und wie kann ich sie nutzen?_ | Vergleich unterschiedlicher Recherchewerkzeuge anhand von Beispielen | [Link](https://docs.google.com/presentation/d/1n3l8XTrU0pgP8jsuTYYRrMmCNvV5iEWGQTkzWW_93FY/edit?usp=sharing) |
 
 ## Unterrichtsvorbereitung
 
+Die Folien sollten vor dem Unterricht gelesen und verstanden werden, anhand eigener Beispiele sollte das Verständnis der Unterschiede der unterschiedlichen Werkzeuge erarbeitet werden.
+
 ## Unterrichtsdurchführung
 
-### Erstelle ein Katastrophenbild
+### Vorstellung der Präsentation
 
-Folgender Prompt wird für alle Tools verwendet:
+Die drei Formen der Recherche und die unterschiede müssen den Schülern klar sein. Dazu müssen viele Rückfragen gestellt werden:
 
-> Hyperrealistic photo of a person watching a nearby volcanic eruption. Face must be clearly identifiable and look very realistic with natural expressions. The photo should be taken with a very high-quality camera to ensure maximal realism and detail.
+1. Was bedeutet es, wenn ein Thema auf Wikipedia steht?
+2. Wer hat diese Themen dort eingestellt?
+3. Wie kommt eine Suchmaschine an ihre Ergebnisse?
+4. Welche Anreize gibt es für eine Suchmaschine, die Reihenfolge der Ergebnisse aufzubauen?
+5. Wie kommt ein Large Language Modell zu einem Ergebnis?
+6. Was hat die Art der Fragestellung mit dem Ergebnis einer LLM zu tun?
+7. Wer kann wie die gefundenen Informationen beeinflussen?
+8. Wie funktioniert eine Manipulation der Ergebnisse bei den Werkzeugen?
 
-#### bing.com / chatgpt.com
+### Abfrage der Werkzeuge bei den Beispielen
 
-#### Leonardo.ai
+Jeder Schüler soll zu jedem Beispiel eine Einschätzung geben. 
 
-* Einstellungen bei https://app.leonardo.ai/ai-generations/image-guidance
-
-![](../res/bilder/leonardo_realistic_photo.png)
-
-#### Dreamstudio
-
-* Einstellungen bei https://dreamstudio.ai/generate
-
-![](../res/bilder/dreamstudio_photo.png)
+* Warum soll dieses Werkzeug genutzt werden?
+* Warum kein anderes, was könnten die Probleme damit sein?
