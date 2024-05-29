@@ -3,13 +3,14 @@
 Interaktive Chatbots sind sehr gut darin, Fragen mit jedem Schritt zu verbessern und einzugrenzen.  
 Damit lassen sich im Nachhinein weitere Details zu einer Frage hinzufügen. 
 
-Allgemein ermöglichen Large Language Models, insbesondere solche mit Online-Zugriff, mehrere Kriterien zu verbinden, zB mit "und" oder "oder" oder "nicht".
+Allgemein ermöglichen Large Language Models, insbesondere solche mit Online-Zugriff, mehrere Kriterien zu verbinden, zB mit "und" oder "oder" oder "nicht". Auch eine eigene Ergebnisdarstellung kann gewählt werden, zB als sortierte Liste, Tabelle oder Diagramm. 
 
 In dieser Einheit wollen wir uns Fragen überlegen und wie wir diese ohne LLM beantworten könnten. Dann geben wir diese Fragen an chatgpt.
 
 * Sind die Antworten korrekt? 
 * Wie können wir die Korrektheit überprüfen?
 * Wo sind die Grenzen dieser Abfragen?
+* Wie kann das Ergebnis sinnvoll dargestellt werden?
 
 ## Ablauf
 
