@@ -8,8 +8,8 @@ Es soll ein Fussballturnier an der Grundschule stattfinden. Wir wollen eine Plan
 
 | Gegenstand | Beschreibung | Bezugsquelle |
 |---------------------|-------------------------------------|-------------------------------------|
-| ChatGPT | ChatGPT | chatgpt.com |
-| Microsoft Designer | Erstellung von Flyern, Postern und Plakaten | designer.... |
+| ChatGPT | ChatGPT | https://chatgpt.com |
+| Microsoft Designer | Erstellung von Flyern, Postern und Plakaten | https://designer.microsoft.com/ |
 
 ## Unterrichtsvorbereitung
 
@@ -74,3 +74,5 @@ Es soll ein Fussballturnier an der Grundschule stattfinden. Wir wollen eine Plan
 ![](../res/bilder/fussballturnier.png)
 
 > Entferne allen Text. Ergänze einen Bezug zur Stadt Frankfurt.
+
+![](../res/bilder/fussball-iter.2.png)
