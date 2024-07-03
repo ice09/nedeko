@@ -74,6 +74,3 @@ Es soll ein Fussballturnier an der Grundschule stattfinden. Wir wollen eine Plan
 ![](../res/bilder/fussballturnier.png)
 
 > Entferne allen Text. Ergänze einen Bezug zur Stadt Frankfurt.
-
-
-
