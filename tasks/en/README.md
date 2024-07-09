@@ -1,3 +1,4 @@
+Diagram
 ```mermaid
 graph TD
     B[REST Interface] -->|starts transformation| C[Tool]
@@ -10,3 +11,4 @@ graph TD
     A[Customer] -->|exports| J[Input XML MBR as ZIP]
     J[Input XML MBR as ZIP] -->|uploads file| B[REST Interface]
 ```
+Ende
