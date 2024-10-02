@@ -1,41 +1,49 @@
-# Was ist Programmierung?
-In dieser Lerneinheit wollen wir die explizite Programmierung kennenlernen. Dieser Exkurs soll den Unterschied zur Künstlichen Intelligenz verdeutlichen.
+# Was ist eigentlich (Künstliche) Intelligenz?
+Wir lernen uns kennen und versuchen gemeinsam, künstliche Intelligenz zu definieren.
 
 ## Ablauf
-Aufruf von Blockly Games. Kurze Erläuterung der Steuerung und der unterschiedlichen Themes.
+Es gibt zwei Bestandteile der Lerneinheit:
 
-Jeweils zwei Kinder bekommen einen Zettel, eines ist Programmierer, das andere Roboter. 
-
-Es werden Zeichen für die jeweiligen Blöcke vereinbart. Dann geht es los, jeweils ein Kind startet als Programmierer und eines als Roboter, die Kinder können dann nach jeder Runde (mind. 8) wechseln, wenn sie wollen.
-
-Wir stellen die Levels mit einem Beamer dar. Der Programmierer überlegt, wie die Implementierung sein könnte, der Roboter muss diese dann ausführen, d.h. in der Klassen die Bewegungen ausüben.
+1. Gegenseitiges Kennenlernen und Gründe für den Besuch der AG
+2. Versuch einer Definition: was ist künstliche Intelligenz?
 
 ## Benötigte Materialien
 | Gegenstand          | Beschreibung                        | Bezugsquelle                        |
 |---------------------|-------------------------------------|-------------------------------------|
-| Blockly Games  | Google Lernprojekt | enaris.org |
-| Zettel, Stift | Manuelle Programmierung | --- |
+| Folien Enaris: AI Basics  | Einführungsfolien des Enaris-Projekts | enaris.org |
 
 ## Unterrichtsvorbereitung
 
 ### Anfangssetup
-* Wie funktioniert das Spiel?
-* Alle Level sollten durchgespielt werden.
+* Per Beamer oder Whiteboard die beiden Fragen groß darstellen:
+  1. Warum bin ich hier? Interessiere ich mich für das Thema (warum?) oder haben meine Eltern mich angemeldet?
+  2. Was glaube ich hier zu lernen?
+* Jeder Schüler soll diese Fragen kurz beantworten.
+
+Der Leiter sollte versuchen, auf jede der Antworten einzugehen und als Input für die weitere Gestaltung der Stunde und der gesamten Lerneinheit zu nehmen.
+
+Danach geht der Leiter auf die Folien von enaris über. 
 
 ## Unterrichtsdurchführung
-Wenn ein neuer Baustein eingeführt wird, sollte dieser entsprechend vorgestellt werden.
 
-* Schleifen: wann kommen diese vor? Welche Spiele kennen die Kinder, was wird da mit Schleifen implementiert?
-* Bedingungen: was kann man mit Bedingungen alles machen?
+Unterschiedliche Formen der Intelligenz werden anhand der Folien erläutert. 
 
-Wir fragen die Kinder nach ihren Lieblingsapps und Spielen und überlegen Beispiele für Schleifen und Bedingungen in diesen Applikationen.
+Die Kinder sollen jede Form einschätzen, es wird im Verlauf sehr schwierig werden, die "Stärke" der jeweiligen künstlichen Intelligenz einzuschätzen.
+
+Zur Auflösung des Problems wird die Landschaft der KI vorgestellt.
+
+Schließlich wird auf Walle eingegangen, die einzig (nicht) existierende starke Intelligenz.
+
+Anhand dieser werden die Unterschiede zwischen starker und schwacher Intelligenz erläutert.
 
 ## Wiederholungseinheit
 
-Falls Levels übrig geblieben sind, sollten diese in der Folgestunde nachgebaut werden, ggf. mit Hilfe. Die Kinder sollen aber die einzelnen Schritte nachspielen, nach Wunsch auch vor der Klasse.
+* Was sind die unterschiedlichen Formen der Intelligenz?
+* Wie waren die unterschiedlichen Formen ausgeprägt?
+* Was ist der Unterschied zwischen starker und schwacher KI?
+
+![](../res/bilder/intelligenz.png)
 
 ## Ressourcen
-* Blockly Games
-* Kodable
-* code.org Hour of Code
+* [enaris]
 
