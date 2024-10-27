@@ -34,8 +34,16 @@ Wir fragen die Kinder nach ihren Lieblingsapps und Spielen und überlegen Beispi
 
 Falls Levels übrig geblieben sind, sollten diese in der Folgestunde nachgebaut werden, ggf. mit Hilfe. Die Kinder sollen aber die einzelnen Schritte nachspielen, nach Wunsch auch vor der Klasse.
 
+###  Beispiele für Geschwindigkeit von Algorithmen
+
+Wir nehmen Sudoku als Beispiel für die schwer verständliche Geschwindigkeit von Algorithmenverarbeitung in Computern.
+
+* Zum Selbstbau / - lösen: https://galileo.org/math/puzzles/pdf/mini-sudoku.pdf
+* Sokudo-Solver mit einstellbarer Geschwindigkeit: https://gsechkin.github.io/Sudoku-Solver/
+
+
 ## Ressourcen
 * Blockly Games
 * Kodable
 * code.org Hour of Code
-
+* https://gsechkin.github.io/Sudoku-Solver/
