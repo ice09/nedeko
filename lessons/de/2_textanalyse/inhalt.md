@@ -1,6 +1,8 @@
 # Textanalyse mit Hilfe von schulki.de
 Textanalyse des Textes "Deutschland: Vielfalt im Herzen Europas" hier: https://hackmd.io/@alculexum/deutschland mit Hilfe von schulki.de
 
+![image](https://github.com/user-attachments/assets/7e506421-0296-44be-8015-5fe6134097ed)
+
 ## Ablauf
 Der Text wird in ausgedruckter Form verteilt, er ist eine DIN A4 Seite lang, ~350 Wörter.
 
