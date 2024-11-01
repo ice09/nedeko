@@ -3,6 +3,9 @@ Textanalyse des Textes "Deutschland: Vielfalt im Herzen Europas" hier: https://h
 
 ![image](https://github.com/user-attachments/assets/7e506421-0296-44be-8015-5fe6134097ed)
 
+![image](https://github.com/user-attachments/assets/d29803e1-be06-43c8-a14f-7dc1724053d6)
+
+
 ## Ablauf
 Der Text wird in ausgedruckter Form verteilt, er ist eine DIN A4 Seite lang, ~350 Wörter.
 
