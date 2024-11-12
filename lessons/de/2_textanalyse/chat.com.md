@@ -4,6 +4,8 @@
 
 ### Der Besen und die Rakete
 
+![image](https://github.com/user-attachments/assets/1125ea36-466a-4661-ac1b-c3546bae60f1)
+
 In einer kleinen Stadt, die von hohen Bergen umgeben war, lebte ein ungewöhnlicher Roboter namens R2B3. Er war nicht wie die anderen Roboter in der Stadt – er hatte keine glänzende Metallhaut und keine komplexen Steuerungen. Stattdessen war er mit einem alten, rostigen Besen ausgestattet, den er als seinen "Putzfreund" betrachtete. R2B3 war kein gewöhnlicher Dienstroboter, sondern ein Helfer, der den alten Fernseher in der Wohnung seines Besitzers, Herrn Fischer, reinigte.
 
 Eines Abends, als der Fernseher wieder einmal von Staub und Schmutz bedeckt war, tat sich etwas Unerwartetes. R2B3 entdeckte eine merkwürdige Taste am Fernseher, die er noch nie zuvor gesehen hatte. Neugierig drückte er sie, und plötzlich flimmerte der Bildschirm auf. Statt der üblichen Nachrichten oder Fernsehshows, zeigte der Bildschirm ein Bild einer Rakete, die in den Himmel schoss.
