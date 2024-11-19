@@ -33,17 +33,14 @@ Der Austauschschüler ist ein Assistent in schulki.de, alternativ kann auch ein 
 
 ### Beantworte folgende Fragen
 
-* Wie sieht der Schulbus oder das Schultransport in deiner Stadt aus?
-* Was frühstückst du normalerweise, und was essen die Leute in Peru zum Frühstück?
-* Welche Hobbys machen viele Kinder in deiner Umgebung nach der Schule?
-* Wie viele Ferien habt ihr im Jahr, und wie feiern die Leute in Peru ihre Feste?
-* Was macht ihr an einem typischen Wochenende, und wie verbringen die Leute in Peru ihre Wochenenden?
-* Welche Sportarten sind in deiner Schule am beliebtesten?
-* Wie geht man mit Hausaufgaben und dem Lernen um? Gibt es viele Prüfungen?
-* Wie verbringen die Menschen in deiner Stadt die Zeit im Freien? Gibt es Parks oder spezielle Orte?
-* Was sind einige der häufigsten Essen oder Gerichte, die du in deiner Region isst?
-* Welche kulturellen Veranstaltungen oder Feiertage gibt es in deiner Stadt, und wie ähneln sie sich vielleicht mit denen in Peru?
-
+* Wie ist dein Schulweg?
+* Was frühstückst du?
+* Was machst du nach der Schule?
+* Wie viele Ferien habt ihr im Jahr?
+* Was macht ihr am Wochenende?
+* Welche Sportarten sind am beliebtesten?
+* Habt ihr viele Hausaufgaben?
+  
 ## Wiederholungseinheit
 
 
