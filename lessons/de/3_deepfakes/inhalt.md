@@ -29,6 +29,10 @@ Wir müssen uns bei allen unter "Benötigte Materialien" erwähnten Seiten anmel
 
 ## Unterrichtsdurchführung
 
+### Einführung in Deepfakes
+
+* https://player.schule/youtube/vvKXL7-y08U
+
 ### Erkenne Fälschungen bei Bildern
 
 * https://data.wdr.de/ddj/deepfake-quiz-erkennen-sie-alle-ki-bilder/
