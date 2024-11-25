@@ -43,5 +43,6 @@ Der Austauschschüler ist ein Assistent in schulki.de, alternativ kann auch ein 
   
 ## Wiederholungseinheit
 
+* Wir erstellen selbst einen Austauschschüler mit einem eigenen Prompt bei chat.com
 
 ## Ressourcen
