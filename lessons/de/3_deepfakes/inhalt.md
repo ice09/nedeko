@@ -31,6 +31,8 @@ Wir müssen uns bei allen unter "Benötigte Materialien" erwähnten Seiten anmel
 
 ### Erkenne Fälschungen bei Bildern
 
+* https://data.wdr.de/ddj/deepfake-quiz-erkennen-sie-alle-ki-bilder/
+* https://data.wdr.de/ddj/quiz-wie-gut-erkennen-sie-deepfakes/
 * https://detectfakes.kellogg.northwestern.edu/
 * https://www.cnet.com/pictures/ai-or-not-ai-can-you-spot-the-real-photos/10/
 * https://data.wdr.de/ddj/deepfake-quiz-erkennen-sie-alle-ki-bilder/
