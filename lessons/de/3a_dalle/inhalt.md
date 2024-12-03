@@ -72,10 +72,6 @@ Cyberpunk-Stil:
 
 Neonfarben, dunkle Töne, futuristisch und technologisch.
 Beispiel: "Ein Hund in einer leuchtenden Stadt voller Neonlichter."
-Fantasy-Stil:
-
-Magische, leuchtende Details, Märchenästhetik.
-Beispiel: "Ein Schloss, das in einer leuchtenden Wolke schwebt."
 Pixel-Art-Stil:
 
 ![alt text](<DALL·E 2024-12-03 21.22.22 - A pixel art depiction of a cat, created in a retro 8-bit style with vibrant and contrasting colors. The cat should be small and charming, with clear p.webp>)
@@ -83,25 +79,9 @@ Pixel-Art-Stil:
 Kleine, quadratische Pixel, wie in Videospielen.
 Beispiel: "Ein Drache aus Pixeln in einer Retro-Umgebung."
 Realistische und fotografische Stile
-Hyperrealismus:
-
-
-Detailgetreu, wie ein Foto.
-Beispiel: "Eine Welle, die so realistisch aussieht, dass man das Wasser fühlen kann."
-Vintage/Retro:
-
-Sepia-Töne, alte Kameralook.
-Beispiel: "Ein Fahrrad in einer alten Stadt mit verblassten Farben."
-Schwarz-Weiß:
-
-Kontrastreiche Graustufen.
-Beispiel: "Ein Wald im Nebel, nur in Schwarz-Weiß."
-Minimalistisch:
-
-Klare Linien, wenig Details.
-Beispiel: "Eine Katze, dargestellt mit wenigen einfachen Strichen."
-Fantastische und kreative Stile
 Steampunk:
+
+![alt text](<DALL·E 2024-12-03 21.22.28 - A steampunk-style depiction of a cat, featuring intricate mechanical details such as gears, cogs, and brass fittings integrated into its design. The c.webp>)
 
 Zahnräder, Bronze, viktorianisches Design.
 Beispiel: "Ein Elefant mit einer dampfbetriebenen Maschine auf seinem Rücken."
@@ -109,73 +89,86 @@ Cartoon-Stil:
 
 Übertriebene Formen, fröhliche Farben.
 Beispiel: "Eine Maus, die Käse mit einem Lächeln isst."
-Galaxy-Stil:
-
-Dunkle Farben, Sterne, funkelnde Elemente.
-Beispiel: "Ein Astronaut, der über einen Planeten voller Glitzer springt."
-Magischer Realismus:
-
-Alltagsszenen mit magischen Elementen.
-Beispiel: "Ein Kind, das mit schwebenden Fischen spielt."
-Kinderzeichnung-Stil:
-
-Einfach, bunte Kritzeleien wie mit Wachsmalstiften.
-Beispiel: "Eine Sonne, die lächelt, und bunte Blumen."
-Material- und Texturstile
-Aquarell:
-
-Weiche Farben, verlaufende Ränder.
-Beispiel: "Ein Regenbogen, der wie ein Wasserfarbenbild aussieht."
 Ölgemälde:
+
+![alt text](<DALL·E 2024-12-03 21.23.09 - An elegant oil painting of a cat, featuring rich and detailed brushstrokes that capture the texture of the fur and the depth of the eyes. The cat shou.webp>)
 
 Dicke Farbschichten, strukturierte Pinselstriche.
 Beispiel: "Ein Berg mit einem leuchtenden Himmel in Ölfarben."
 Bleistiftzeichnung:
 
+![alt text](<DALL·E 2024-12-03 21.23.11 - A detailed pencil sketch of a cat, capturing the texture of its fur and the expressive details of its eyes and face. The drawing should have soft shad.webp>)
+
 Schattierungen und Strichdetails.
 Beispiel: "Ein Wolf im Wald, wie mit Bleistift gezeichnet."
-Kohlezeichnung:
-
-Dunkle, rauchige Linien.
-Beispiel: "Ein alter Baum, wie mit Kohle gezeichnet."
 3D-Stil:
+
+![alt text](<DALL·E 2024-12-03 21.22.57 - A highly detailed 3D rendering of a cat, featuring realistic fur texture, expressive eyes, and a lifelike pose. The cat should be placed in a vibrant .webp>)
 
 Objekte mit Tiefe, wie in animierten Filmen.
 Beispiel: "Ein Ball, der aussieht, als könne man ihn anfassen."
 Witzige und spielerische Stile
 Emoji-Stil:
 
+![alt text](<DALL·E 2024-12-03 21.23.06 - A creative depiction of a cat in the style of an emoji, with a simple and clean design featuring a cute, round face, expressive eyes, and small triang.webp>)
+
 Alles in der Form von Emojis.
 Beispiel: "Eine Katze mit Herzen als Augen, alles im Emoji-Stil."
 Knete-Stil:
+
+![alt text](<DALL·E 2024-12-03 21.23.03 - A whimsical depiction of a cat created in a claymation style, resembling hand-molded modeling clay. The cat should have a soft, rounded appearance wit.webp>)
 
 Figuren und Szenen, die wie aus Knetmasse gemacht aussehen.
 Beispiel: "Ein Knet-Roboter in einer bunten Knetwelt."
 Lego-Stil:
 
+![alt text](<DALL·E 2024-12-03 21.23.00 - A playful depiction of a cat built in the Lego style, constructed entirely from colorful Lego bricks. The cat should have a blocky and angular appeara.webp>)
+
 Szenen, die aus Legosteinen bestehen.
 Beispiel: "Ein Flugzeug aus Lego, das fliegt."
 Papier-Collage:
+
+![alt text](<DALL·E 2024-12-03 21.23.27 - A whimsical 3D paper collage of a cat, featuring layers of colorful, cut-out paper arranged to give a sense of depth and texture. The cat should have .webp>)
 
 Objekte sehen aus wie ausgeschnittenes Papier.
 Beispiel: "Ein Baum, der aus bunten Papierstücken zusammengesetzt ist."
 Naturinspirierte Stile
 Blumenmuster:
 
+![alt text](<DALL·E 2024-12-03 21.23.13 - An artistic depiction of a cat integrated into a floral pattern, where the cat's form is composed of intricate and colorful flowers, leaves, and vines.webp>)
+
 Szenen, die mit Blumen dekoriert sind.
 Beispiel: "Ein Löwe, dessen Mähne aus Blumen besteht."
 Wellenmuster:
 
+![alt text](<DALL·E 2024-12-03 21.23.16 - An artistic depiction of a cat integrated into a wave pattern, inspired by flowing, rhythmic designs. The cat's form should blend seamlessly with styl.webp>)
+
 Wellenartige Formen und Designs.
 Beispiel: "Eine Stadt, die aussieht wie aus Wasser gebaut."
 Feuer- und Flammenstil:
+
+![alt text](<DALL·E 2024-12-03 21.23.21 - An artistic depiction of a cat integrated into a fire and flames pattern, where the cat's silhouette is formed by swirling, dynamic flames and glowing.webp>)
 
 Szenen aus glühendem Feuer.
 Beispiel: "Ein Phoenix, der in Flammen steht."
 
 Kombinationsideen für Variationen
 Ein "Manga-Drache" in einem "Cyberpunk-Stil".
+
+![alt text](<DALL·E 2024-12-03 21.23.30 - A dynamic illustration of a dragon in a Manga style fused with Cyberpunk elements. The dragon should have sleek, angular features, glowing neon accent.webp>)
+
 Eine "Surrealistische Stadt", gemalt mit "Aquarellfarben".
+
+![alt text](<DALL·E 2024-12-03 21.23.33 - A surrealistic cityscape painted in a watercolor style, featuring dreamlike elements such as floating buildings, winding staircases that lead to nowhe.webp>)
+
 Eine "Kohlezeichnung von einem Einhorn" im "Galaxy-Stil".
+
+![alt text](<DALL·E 2024-12-03 21.23.35 - A charcoal drawing of a unicorn blended with a galaxy theme, featuring intricate black-and-white shading to create the unicorn's detailed form, with i.webp>)
+
 Ein "Picasso-Papagei" mit "Steampunk-Zahnrädern".
+
+![alt text](<DALL·E 2024-12-03 21.23.39 - An artistic depiction of a parrot in a Cubism-inspired style, featuring fragmented, geometric shapes and bold, vibrant colors such as red, green, and .webp>)
+
 Eine "Schwarz-Weiß-Maus" in einem "Anime-Dorf".
+
+![alt text](<DALL·E 2024-12-03 21.23.44 - A detailed black-and-white mouse depicted in a vibrant, colorful anime-style village. The mouse should be monochromatic, with intricate line art and s.webp>)
