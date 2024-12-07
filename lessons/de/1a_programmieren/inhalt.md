@@ -13,7 +13,7 @@ Wir stellen die Levels mit einem Beamer dar. Der Programmierer überlegt, wie di
 ## Benötigte Materialien
 | Gegenstand          | Beschreibung                        | Bezugsquelle                        |
 |---------------------|-------------------------------------|-------------------------------------|
-| Blockly Games  | Google Lernprojekt | enaris.org |
+| Blockly Games  | Google Lernprojekt | [Blockly Games: Maze](https://blockly.games/maze?lang=de) |
 | Zettel, Stift | Manuelle Programmierung | --- |
 
 ## Unterrichtsvorbereitung
@@ -43,7 +43,7 @@ Wir nehmen Sudoku als Beispiel für die schwer verständliche Geschwindigkeit vo
 
 
 ## Ressourcen
-* Blockly Games
+* [Blockly Games](https://blockly.games/)
 * Kodable
 * code.org Hour of Code
-* https://gsechkin.github.io/Sudoku-Solver/
+* [Sudoku Solver](https://gsechkin.github.io/Sudoku-Solver/)
