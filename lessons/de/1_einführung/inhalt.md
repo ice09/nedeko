@@ -10,7 +10,7 @@ Es gibt zwei Bestandteile der Lerneinheit:
 ## Benötigte Materialien
 | Gegenstand          | Beschreibung                        | Bezugsquelle                        |
 |---------------------|-------------------------------------|-------------------------------------|
-| Folien Enaris: AI Basics  | Einführungsfolien des Enaris-Projekts | enaris.org |
+| Folien Enaris: AI Basics  | Einführungsfolien des Enaris-Projekts | [enaris.org](enaris.org) |
 
 ## Unterrichtsvorbereitung
 
@@ -45,5 +45,5 @@ Anhand dieser werden die Unterschiede zwischen starker und schwacher Intelligenz
 ![](../res/bilder/intelligenz.png)
 
 ## Ressourcen
-* [enaris]
+* [enaris.org]
 
