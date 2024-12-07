@@ -21,7 +21,8 @@ Zunächst mit Bildern, dann mit Videos.
 
 | Gegenstand | Beschreibung | Bezugsquelle |
 |---------------------|-------------------------------------|-------------------------------------|
-| chat.openai.com | Dallee3 by ChatGPT | |
+| DALL-E 3 | DALL-E 3 by ChatGPT | https://chat.com |
+| Leonardo.AI | Leonardo.AI zur Erstellung von Bildern | https://app.leonardo.ai |
 
 ## Unterrichtsvorbereitung
 
@@ -45,7 +46,6 @@ Wir müssen uns bei allen unter "Benötigte Materialien" erwähnten Seiten anmel
 
 * https://detectfakes.kellogg.northwestern.edu/
 * https://www.cnet.com/pictures/ai-or-not-ai-can-you-spot-the-real-photos/10/
-* https://www.zdf.de/kinder/logo/deep-fakes-erkennen-100.html
 * https://deepfact.3duniversum.com/quiz/
 
 ### Erkenne Fälschungen bei Videos
