@@ -57,7 +57,9 @@ Wir müssen uns bei allen unter "Benötigte Materialien" erwähnten Seiten anmel
 
 #### Erstellung von FaceSwaps
 
-HuggingFace FaceSwap (kostenlos, Datenschutz beachten)
+* [HuggingFace FaceSwap](https://huggingface.co/spaces/r-neuschulz/h94-IP-Adapter-FaceID-SDXL) (kostenlos, Datenschutz beachten)
+
+_Auf HuggingFace gibt es viele weitere Modelle für FaceSwaps._
 
 #### Erstelle ein Katastrophenbild (How-To)
 
